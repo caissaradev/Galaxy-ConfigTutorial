@@ -1,6 +1,6 @@
 # How to make a legit config for Galaxy Arduino and Raspberry
 
-###### this document has the intent to explain how the cheat configuration works so no one needs to spend money on something they can easily make themselves.
+###### this document has the intent to explain how the cheat configuration works so no one needs to spend money on something they can easily make themselves.
 
 ### Cheat explantion
 
