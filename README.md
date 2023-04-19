@@ -40,5 +40,11 @@ The aimbot works only when you have the key you set it up pressed, knowing this 
 
 ##### Making your config
 
-- FOV , i recommend always having the Y axis lower than the X axis, why you may ask it's so when you are shooting the chances of your aim being dragged down because the
-- 
+- **FOV:** `"AimbotFovX": 45, "AimbotFovY": 40,`, i always recommend having the Y axis lower than the X axis, why you may ask ? it's so when you are shooting at the enemy the chances of your aim being dragged down because there was util or a dead body on the ground are significantly lower.
+  
+- **Aimbot Antishake:** `"AimbotAntishake": 15.0,` i don't always mess arround with this setting because my aim never got shaky but if your's get just make the value higher
+  
+
+### Aimassist
+
+### Triggerbot
