@@ -19,7 +19,7 @@ Those are some of the most commom things you're going to encounter while using c
 
 **Solving these commom problems**, is quite easy most of them can be solved with just a little of game knowledge and setting up the cheat, as explained below.
 
-### The basics of setting legit configs
+### Some basics of setting legit configs
 
 If you want to have a good legit config is essential that you remember the basics:
 
