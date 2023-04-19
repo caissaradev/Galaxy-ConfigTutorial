@@ -17,7 +17,7 @@ Knowing this is essential so we can **solve some commom problems**, like:
 
 Those are some of the most commom things you're going to encounter while using color based aimbots.
 
-**Solving these commom problems**, is quite easy most of them can be solved with just a little of game knowledge and setting up the cheat.
+**Solving these commom problems**, is quite easy most of them can be solved with just a little of game knowledge and setting up the cheat, as explained below.
 
 ### The basics of setting legit configs
 
@@ -27,7 +27,7 @@ If you want to have a good legit config is essential that you remember the basic
   
 - The more smoothing you have the slower your aim will pull to the enemy.
   
-- On triggerbot the lower the delay the faster the cheat will shoot for you
+- On triggerbot the lower the delay the faster the cheat will shoot for you.
   
 
 Having this in mind you can start making your own config.
@@ -42,7 +42,7 @@ The aimbot works only when you have the key you set it up pressed, knowing this 
 
 - **Aimbot Smooth:** `"AimbotSmooth": 3.0,` smooth is a really important setting it's essentially what defines how legit you will be while playing, it is **important** to always remember that your **dpi and in game sensitivity** are a big factor on how much smooth you will need to use.
 
-- **Antishake:** `"AimbotAntishake": 15.0,` i don't always mess arround with this setting because my aim never got shaky but if your's get just make the value higher
+- **Antishake:** `"AimbotAntishake": 15.0,` i don't always mess arround with this setting because my aim never got shaky but if your's get just make the value higher.
 
 
 ### Aimassist
@@ -55,6 +55,17 @@ Aimassist works by always having your aim getting pulled to your enemy, but reme
 - **Antishake:** `"AimassistAntishake": 25.0,`, without any doubt antishake will make the most difference and be more useful in aimassist, just like it was said in the Aimbot section, if needed play arround with it, try lowering it first and raise it accoording to your needs.  
 
 ### Triggerbot
- 
+
+The Triggerbot works by constantly cheking to see if the crosshair is lined up to an enemy and as soon as a enemy get in front of your crosshair it will shoot for you in an impressive response time, theres not much to talk about the triggerbot only a few safety measures so you don't look obvious.
+
+- Try not to use it in super closed corners and somewhere the normal legit player wouldn't be holding.
+
+- **FOV:** `"TriggerbotFovX": 12,` `"TriggerbotFovY": 12,`, i recommende that both fov's should remains the same value.
+
+- **Triggetbot Delay:** `"TriggerbotDelay": 10,`, the delay is the time it will take to the triggerbot to shoot for you when it sees the enemy, having it lower
+
+
+
+
 
 
