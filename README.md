@@ -23,7 +23,7 @@ Those are some of the most commom things you're going to encounter while using c
 
 If you want to have a good legit config is essential that you remember the basics:
 
-- The lower the fov the less likely you are to just accidentally flicking to someones head or looking suspicius.
+- The lower the fov the less likely you are to just accidentally flicking to someones head and end up looking suspicius.
   
 - The more smoothing you have the slower your aim will pull to the enemy.
   
