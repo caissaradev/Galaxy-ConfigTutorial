@@ -52,4 +52,3 @@ Aimassist works by always having your aim getting pulled to your enemy, but reme
 ### Triggerbot
 
 
-![Aimbot](https://github.com/caissaradev/Galaxy-ConfigTutorial/blob/main/images/IMG_0890.jpeg)
