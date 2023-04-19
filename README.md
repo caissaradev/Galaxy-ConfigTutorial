@@ -1,6 +1,6 @@
 # How to make a legit config for Galaxy Arduino and Raspberry
 
-###### this document has the intent to explain how the cheat configuration works so no one needs to spend money on something they can easily make themselves.
+##### this document has the intent to explain how the cheat configuration works so no one needs to spend money on something they can easily make themselves.
 
 ### Cheat explantion
 
@@ -38,13 +38,18 @@ Having this in mind you can start making your own config.
 
 The aimbot works only when you have the key you set it up pressed, knowing this is really important so you can define how big you fov is going to be since it's only going to try to find something to aim at when you have the aimbot key pressed.
 
-##### Making your config
-
-- **FOV:** `"AimbotFovX": 45, "AimbotFovY": 40,`, i always recommend having the Y axis lower than the X axis, why you may ask ? it's so when you are shooting at the enemy the chances of your aim being dragged down because there was util or a dead body on the ground are significantly lower.
+- **FOV:** `"AimbotFovX": 45,` `"AimbotFovY": 40,`, i always recommend having the Y fov lower than the X fov, why you may ask ? it's so when you are shooting at the enemy the chances of your aim being dragged down because there was util or a dead body on the ground are significantly lower.
   
 - **Aimbot Antishake:** `"AimbotAntishake": 15.0,` i don't always mess arround with this setting because my aim never got shaky but if your's get just make the value higher
-  
+- **Aimbot Smooth:** `"AimbotSmooth": 3.0,` smooth is a really important setting it's essentially what defines how legit you will be while playing, it is **important** to always remember that your **dpi and in game sensitivity** are a big factor on how much smooth you will need to use.
 
 ### Aimassist
+Aimassist works by always having your aim getting pulled to your enemy, but remember the since it's always on it will also going to be pulled to anything that has the purple color (or any other you end up choosing) like dead bodys and util, knowing this we can set up the settings in an smarter way so there are no annoying aim pulling throughout your gameplay.
+
+- **FOV:** `"AimassistFovX": 25,` `"AimassistFovY": 20,`, just like the aimbot i always recommend having the Y fov lower than the X fov,  
+
 
 ### Triggerbot
+
+
+![Aimbot](https://github.com/caissaradev/Galaxy-ConfigTutorial/blob/main/images/IMG_0890.jpeg)
